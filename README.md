@@ -12,14 +12,6 @@
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+recently+graduated+student;Frontend+Developer;Always%20learning%20new%20things"></a>
 </p>
 
-<h1 align="center">
-  <img src="GIF/Earth.gif" width="24px">
-  <img src="GIF/Hi.gif" width="40px" />
-</h1>
-
-<br/>
-<br/>
-
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 - 🔭 I’m currently working on **GRANTHAGRA-'Android Application for Students.**
