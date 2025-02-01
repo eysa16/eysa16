@@ -14,8 +14,6 @@
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+recently+graduated+student;Frontend+Developer;Always%20learning%20new%20things"></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
-
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
