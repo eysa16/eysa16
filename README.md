@@ -4,7 +4,7 @@
   alt="header"/>
 </div>
 
-<h3 align="center">
+<h3 align="center" margin-top="-10px">
   Welcome to my GitHub profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h3>
@@ -14,7 +14,6 @@
 
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
@@ -22,8 +21,6 @@
 <br/>
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
-
-
 
 - 🔭 I’m currently working on **GRANTHAGRA-'Android Application for Students.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **GoLang 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
