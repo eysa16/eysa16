@@ -22,12 +22,29 @@
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-- 🔭 I’m currently working on **GRANTHAGRA-'Android Application for Students.**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **GoLang 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, Design or DevOps .**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/GovindSingh9447/GovindSingh9447/issues/2) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **OOP with Java**
+
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+
+- 💬 Ask me about **Web development | OOC**
+
+- 📫 How to reach me **kaveen.dinethma@gmail.com**
+  
+- ⚡ Fun fact **Call me as KD**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 
 <br/>
 <br/>
