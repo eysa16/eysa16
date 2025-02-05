@@ -99,7 +99,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/erik-yoel-santana-apreza-295002290/"><img src="https://img.shields.io/badge/-Erik%20LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/erik-yoel-santana-apreza-295002290/"><img src="https://img.shields.io/badge/-Erik%20LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:erik16unamfi@gmail.com"><img src="https://img.shields.io/badge/-erik16unamfi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/-5545492410_-00a135?style=flat&logo=Whatsapp&logoColor=white"/></a>
 </p>
