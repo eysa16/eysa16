@@ -150,6 +150,7 @@
 <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="60" alt="sqlserver logo"></code>
 
 **Data Analytics**
+
 <code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg"></code>
 <code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/numpy/numpy-original.svg"></code>
 <code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg"></code>
@@ -160,10 +161,9 @@
 
 <code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pycharm/pycharm-original.svg"></code>
 <code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/anaconda/anaconda-original.svg"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg"></code>
 <code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg"></code>
 <code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original.svg"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg"></code>
 <code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg"></code>
 
 ### 🤝🏻 &nbsp;Connect with Me
