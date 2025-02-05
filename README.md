@@ -31,7 +31,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="380" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif">
+  <img align="center" alt="Coding" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif">
 
   
   </td>
