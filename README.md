@@ -128,6 +128,7 @@
 <a/>
 
 **Programming Languages**
+
 <code><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" height="60"></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" height="60"></code>
@@ -145,9 +146,8 @@
 
 **Databases**
 
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/mysql.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/redis.png"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/mysql/mysql-original.svg"></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"></code>
 
 **Cloud Servers**
 
