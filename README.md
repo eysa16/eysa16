@@ -146,8 +146,8 @@
 
 **Databases**
 
-<code><img height="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" alt="mysql"></code>
+<code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqldeveloper/sqldeveloper-original.svg" height="60" alt="sqlserver logo"></code>
 
 **Cloud Servers**
 
