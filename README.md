@@ -127,6 +127,12 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
 <a/>
 
+**Programming Languages**
+<code><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" height="60"></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" height="60"></code>
+<code></code>
+
 
 **Front-end**
 
