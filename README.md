@@ -23,15 +23,15 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 I am an Electronics Engineer with a passion for programming.
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I am currently learning the React framework.
 
-- 💬 Ask me about **Web development | OOC**
+- 💬 I am 25 years old.
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- 📫 I live in Mexico City.
   
-- ⚡ Fun fact **Call me as KD**
+- ⚡ I am available for work.
 
 </td>
 <td width="50%" align="center">
