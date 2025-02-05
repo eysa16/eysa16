@@ -141,7 +141,7 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="60" alt="sass"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" width="60" alt="tailwindcss logo"></code>
+<code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="60" width="60" alt="tailwindcss logo"></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"></code>
 
 **Databases**
@@ -149,18 +149,22 @@
 <code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" alt="mysql"></code>
 <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="60" alt="sqlserver logo"></code>
 
-**Cloud Servers**
-
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/gcloud.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/DigitalOcean.png"></code>
+**Data Analytics**
+<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/numpy/numpy-original.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tensorflow/tensorflow-original.svg"></code>
 
 **Tools**
 
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/atom.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/vim.png"></code>
-
+<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pycharm/pycharm-original.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/anaconda/anaconda-original.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg"></code>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
