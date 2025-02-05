@@ -14,6 +14,14 @@
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+recently+graduated+student;Frontend+Developer;Always%20learning%20new%20things"></a>
 </p>
 
+<br>
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+<br>
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
@@ -41,6 +49,10 @@
 <br>
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+<br>
 
 ## **🧰 Tech Toolbox**<br>
 
@@ -98,9 +110,12 @@
 <br>
 <br>
 
-### 🤝🏻 &nbsp;Connect with Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/erik-yoel-santana-apreza-295002290/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-Erik%20LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
