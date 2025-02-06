@@ -14,7 +14,7 @@
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+recently+graduated+student;Frontend+Developer;Always%20learning%20new%20things"></a>
 </p>
 
-### **🧑‍🎓 About me**
+# **🧑‍🎓 About me**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -47,7 +47,7 @@
 <br>
 
 
-### **🧰 Tech Toolbox**
+# **🧰 Tech Toolbox**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -104,7 +104,7 @@
 <br>
 
 
-### 🤝🏻 &nbsp;Connect with Me
+# 🤝🏻 &nbsp;Connect with Me
 
 <br>
 
