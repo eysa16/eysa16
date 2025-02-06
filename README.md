@@ -23,13 +23,13 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I am an Electronics Engineer with a passion for programming.
+- 🧑‍🎓 I am an Electronics Engineer with a passion for programming.
 
-- 🧑‍🎓 I am currently learning the React framework.
-
-- 💬 I am 25 years old.
+- 🌱 I am currently learning the React framework.
 
 - 📫 I live in Mexico City.
+
+- 💬 I am 25 years old.
   
 - ⚡ I am available for work.
 
