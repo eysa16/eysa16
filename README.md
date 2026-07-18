@@ -183,52 +183,6 @@ information.
 
 ---
 
-## Professional Experience Highlights
-
-### GVI Security Solutions México
-
-- Development of a Video Management System for enterprise surveillance environments.
-- Backend services with Python and FastAPI for recordings, device management and real-time alerts.
-- Integration of OpenCV and OCR-based antifraud alerting solutions.
-- Video streaming and processing with WebRTC, go2rtc and FFmpeg.
-- Containerized services using Docker.
-- Integration of Bosch surveillance systems with Verint-based platforms using C# and .NET.
-- Use of RTSP and ONVIF protocols for video playback and device interoperability.
-- Adoption of AI-assisted engineering workflows using agents, SDD and TDD.
-
-### Faro Protec
-
-- Development of an e-learning platform for corporate cybersecurity training.
-- Implementation and improvement of modules for the corporate website.
-- Creation of product pages for cybersecurity solutions from technology partners.
-- Participation in requirements analysis, Scrum-based development and continuous product improvement.
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=eysa16&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Erik's GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eysa16&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most used languages"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=eysa16&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</div>
-
----
-
 ## Education
 
 **National Autonomous University of Mexico — UNAM**
