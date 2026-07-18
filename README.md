@@ -1,118 +1,271 @@
-<!-- HEADER -->
-<div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Erik%20Yoel%20Santana%20Apreza&fontSize=45&type=waving&fontColor=fefefe&&animation=fadeIn"
-  alt="header"/>
+<!-- Header -->
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1408d0,50:0860d0,100:08c4d0&text=Erik%20Yoel%20Santana%20Apreza&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+    alt="Erik Yoel Santana Apreza"
+  />
 </div>
 
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+<h2 align="center">Software Engineer | Backend, Real-Time Systems & AI-Assisted Development</h2>
 
-<h3 align="center" width="50">
-  Welcome to my GitHub profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+recently+graduated+student;Software+Developer;Always%20learning%20new%20things"></a>
+  Software engineer based in Mexico City, focused on building scalable applications,
+  enterprise integrations and real-time multimedia systems.
 </p>
 
-# **🧑‍🎓 About me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/erik-yoel-santana-apreza-295002290/">
+    <img src="https://img.shields.io/badge/LinkedIn-Erik%20Santana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:erik.santana.apreza@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://portafolioproyectos.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
-<br>
+## About Me
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🧑‍🎓 I am an Electronics Engineer with a passion for programming.
+I am a **Software Engineer** with experience in enterprise application development,
+video surveillance integrations, web platforms and real-time multimedia solutions.
 
-- 🌱 I am currently learning Generative AI.
+My work combines traditional software engineering practices with controlled
+AI-assisted development workflows using specialized agents, MCP servers, reusable
+skills and methodologies such as **Spec-Driven Development** and
+**Test-Driven Development**.
 
-- 📫 I live in Mexico City.
+I use these tools to accelerate analysis, implementation, code review and
+documentation while maintaining human validation, automated testing, version
+control, security and sound architectural practices.
 
-- 💬 I am 25 years old.
-  
-- ⚡ I am available for work.
+- Currently working on video management and real-time alerting systems.
+- Building backend services with Python and FastAPI.
+- Developing integrations with C# and .NET.
+- Working with WebRTC, RTSP, ONVIF, FFmpeg and go2rtc.
+- Building cross-platform products with Flutter, Dart and Supabase.
+- Interested in clean architecture, automation, AI engineering and scalable systems.
 
-</td>
-<td width="50%" align="center">
+---
 
-  <img align="center" alt="Coding" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif">
+## Professional Focus
 
-  
-  </td>
-</tr>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Cross-Platform Development
+
+- Flutter and Dart
+- Supabase and PostgreSQL
+- OAuth authentication
+- Local and remote persistence
+- REST API integrations
+- Responsive web interfaces
+
+    </td>
+    <td width="50%" valign="top">
+
+### Software Engineering
+
+- Backend development
+- Enterprise integrations
+- Modular architectures
+- API design
+- Containerized environments
+- Testing and version control
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### AI-Assisted Engineering
+
+- AI agents
+- Model Context Protocol
+- Development harnesses
+- Reusable skills
+- Spec-Driven Development
+- Test-Driven Development
+
+    </td>
+    <td width="50%" valign="top">
+
+### Real-Time Systems
+
+- Video Management Systems
+- Live video streaming
+- Recording and playback services
+- Real-time alerts
+- WebRTC, RTSP and ONVIF
+- FFmpeg and go2rtc
+
+    </td>
+  </tr>
 </table>
-<br>
 
+---
 
-# **🧰 Tech Toolbox**
+## Tech Stack
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Languages
 
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,python,dart,js,sql" alt="Programming languages">
+</p>
 
-**Programming Languages**
+### Frameworks and Platforms
 
-<code><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" height="60"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" height="60"></code>
-<code></code>
-<br>
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,flutter,fastapi,tailwind,bootstrap" alt="Frameworks">
+</p>
 
-**Front-end**
+### Databases
 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="60" alt="sass"></code>
-<code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="60" width="60" alt="tailwindcss logo"></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"></code>
-<br>
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases">
+  <img
+    height="48"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+    alt="SQL Server"
+  >
+</p>
 
-**Databases**
+### Infrastructure and Tools
 
-<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" alt="mysql"></code>
-<code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="60" alt="sqlserver logo"></code>
-<br>
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,aws,azure,vscode,visualstudio" alt="Infrastructure and tools">
+</p>
 
-**Data Analytics**
+### Technologies and Practices
 
-<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/numpy/numpy-original.svg"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tensorflow/tensorflow-original.svg"></code>
-<br>
-<br>
+<p>
+  <img src="https://img.shields.io/badge/WebRTC-Real--Time%20Communication-333333?style=flat-square" alt="WebRTC">
+  <img src="https://img.shields.io/badge/FFmpeg-Multimedia-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg">
+  <img src="https://img.shields.io/badge/RTSP-Video%20Streaming-1F6FEB?style=flat-square" alt="RTSP">
+  <img src="https://img.shields.io/badge/ONVIF-Video%20Integration-6E40C9?style=flat-square" alt="ONVIF">
+  <img src="https://img.shields.io/badge/MCP-AI%20Tooling-000000?style=flat-square" alt="MCP">
+  <img src="https://img.shields.io/badge/SDD-Spec--Driven%20Development-0969DA?style=flat-square" alt="SDD">
+  <img src="https://img.shields.io/badge/TDD-Test--Driven%20Development-2DA44E?style=flat-square" alt="TDD">
+</p>
 
-**Tools**
+---
 
-<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original.svg"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pycharm/pycharm-original.svg"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/anaconda/anaconda-original.svg"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg"></code>
-<br>
-<br>
-<br>
+## Featured Project
 
+### Viaply — AI-Assisted Travel Planning Platform
 
-# 🤝🏻 &nbsp;Connect with Me
+<p>
+  <a href="https://viaply.com.mx">
+    <img src="https://img.shields.io/badge/Website-viaply.com.mx-16223F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Viaply website">
+  </a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Viaply is a cross-platform travel planning product designed to help users organize
+routes, itineraries, accommodation, transportation, budgets and travel-related
+information.
 
-<br>
-<br>
+**Main technologies and concepts:**
+
+- Flutter and Dart
+- Modular application architecture
+- Supabase and PostgreSQL
+- Docker-based infrastructure
+- OAuth authentication
+- Local and remote data persistence
+- External API integrations
+- AI-assisted development with specialized agents
+- Spec-Driven Development and Test-Driven Development
+
+---
+
+## Professional Experience Highlights
+
+### GVI Security Solutions México
+
+- Development of a Video Management System for enterprise surveillance environments.
+- Backend services with Python and FastAPI for recordings, device management and real-time alerts.
+- Integration of OpenCV and OCR-based antifraud alerting solutions.
+- Video streaming and processing with WebRTC, go2rtc and FFmpeg.
+- Containerized services using Docker.
+- Integration of Bosch surveillance systems with Verint-based platforms using C# and .NET.
+- Use of RTSP and ONVIF protocols for video playback and device interoperability.
+- Adoption of AI-assisted engineering workflows using agents, SDD and TDD.
+
+### Faro Protec
+
+- Development of an e-learning platform for corporate cybersecurity training.
+- Implementation and improvement of modules for the corporate website.
+- Creation of product pages for cybersecurity solutions from technology partners.
+- Participation in requirements analysis, Scrum-based development and continuous product improvement.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=eysa16&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Erik's GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eysa16&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most used languages"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=eysa16&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</div>
+
+---
+
+## Education
+
+**National Autonomous University of Mexico — UNAM**
+
+Bachelor’s Degree in Electrical and Electronic Engineering  
+Graduated with a GPA of **9.22 / 10**
+
+**Fundación Telmex Telcel**
+
+Academic Excellence Program
+
+---
+
+## Languages
+
+- Spanish — Native
+- English — B1–B2
+
+---
+
+## Contact
 
 <p align="center">
-<a href="https://www.linkedin.com/in/erik-yoel-santana-apreza-295002290/" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-Erik%20LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:erik.santana.apreza@gmail.com"><img src="https://img.shields.io/badge/-erik.santana.apreza@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-5545492410_-00a135?style=flat&logo=Whatsapp&logoColor=white"/>
+  I am interested in software engineering, backend development, AI-assisted
+  workflows, enterprise integrations and real-time systems.
 </p>
+
+<p align="center">
+  <a href="mailto:erik.santana.apreza@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Connect-erik.santana.apreza%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Erik">
+  </a>
+</p>
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1408d0,50:0860d0,100:08c4d0&section=footer"
+    alt="Footer"
+  />
+</div>
