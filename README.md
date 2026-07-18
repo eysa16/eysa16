@@ -7,7 +7,7 @@
   />
 </div>
 
-<h2 align="center">Software Engineer | Backend, Real-Time Systems & AI-Assisted Development</h2>
+<h2 align="center">Software Engineer | Backend Developer & AI-Assisted Development</h2>
 
 <p align="center">
   Software engineer based in Mexico City, focused on building scalable applications,
