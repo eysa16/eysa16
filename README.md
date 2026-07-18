@@ -207,7 +207,7 @@ Academic Excellence Program
 
 <p align="center">
   I am interested in software engineering, backend development, AI-assisted
-  workflows, enterprise integrations and real-time systems.
+  workflows and enterprise integrations.
 </p>
 
 <p align="center">
